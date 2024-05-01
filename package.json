@@ -1,0 +1,19 @@
+{
+  "name": "piece_of_cake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LinkedInLearning/creating-github-portfolios-4468228/blob/main/zipped_files/Cake.zip"
+  },
+  "author": "Leigh Stewardson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
